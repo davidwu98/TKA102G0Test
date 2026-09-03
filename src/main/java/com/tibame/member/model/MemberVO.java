@@ -3,7 +3,7 @@ package com.tibame.member.model;
 public class MemberVO {
 	private Integer xxx;
 	private String name;
-	private String password;
+	private String aaaaaaa;
 	
 	public Integer getXxx() {
 		return xxx;
